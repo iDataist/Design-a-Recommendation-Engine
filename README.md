@@ -1,4 +1,4 @@
-# Design a Recommendation Engine (Experiment Design)
+# Design a Recommendation Engine 
 
 ## Project Overview
 I  analyzed the interactions that users had with articles on the IBM Watson Studio platform, and made recommendations to them about new articles they might like.
