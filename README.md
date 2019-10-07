@@ -1,7 +1,7 @@
 # Design a Recommendation Engine 
 
 ## Project Overview
-I  analyzed the interactions that users had with articles on the IBM Watson Studio platform, and made recommendations to them about new articles they might like.
+I  analyzed the interactions that users had with articles on the IBM Watson Studio platform, and designed a recommendation engine on new articles that users might like.
 
 ## Project Steps
 
